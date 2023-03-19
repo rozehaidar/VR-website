@@ -1,3 +1,3 @@
-MS Center VR Game Launcher Website
+MS Center VR Game Documentation Website
 
-This is a website designed to launch a virtual reality game for the MS Center. The game is intended to help patients with multiple sclerosis (MS) to improve their physical and cognitive abilities through immersive experiences in a virtual world.
+This website is a comprehensive guide to the VR game designed by MS Center for patients with multiple sclerosis (MS). The website serves as a documentation hub where patients, clinicians, and caregivers can access important information about the game and its use.
